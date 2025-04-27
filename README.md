@@ -1,10 +1,34 @@
-# Pentest‑MAF (Multi‑Agent Framework)
+## RedOps Agents
+An intelligent pentesting agents framework built with Python and SPADE multi-agent technology.  
+SMA automates cybersecurity tasks by coordinating distributed pentesting agents for reconnaissance, vulnerability scanning, exploitation, and reporting.
 
-> **Automated web‑application penetration‑testing framework powered by SPADE XMPP agents.**
->
-> Recon, fuzzing, vulnerability scanning, authentication probing and rich reporting – all in one repo.
+---
+## DASHBOARD 
+
+![Screenshot 2025-04-25 185935](https://github.com/user-attachments/assets/94978045-7156-46f0-bfba-df2f7eb0438d)
 
 
+## 📋 Description
+
+RedOps Agents is a modular framework designed to simplify and automate penetration testing processes.  
+Using SPADE (Smart Python Agent Development Environment), each agent specializes in different tasks such as scanning, exploitation, and reporting.
+
+Agents communicate and cooperate to:
+- Perform advanced network reconnaissance
+- Discover and exploit vulnerabilities
+- Generate structured penetration test reports
+- Visualize operations in a dashboard
+
+Built for cybersecurity researchers, ethical hackers, and pentest teams who want scalable, distributed, and intelligent operations.
+
+---
+
+## 🚀 Features
+- 📡 Multi-agent architecture for distributed pentest tasks
+- 🤖 Automated Recon, Exploitation, and Reporting
+- 🌐 HTML Dashboard and Reports
+- ⚡ Fast task execution using concurrent agents
+- 🛠️ Highly extensible: Add your own custom agents easily
 ---
 
 ## ✨ Key Features
